@@ -1,0 +1,5 @@
+tinygrad_venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
