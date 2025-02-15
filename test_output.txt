@@ -1,0 +1,7 @@
+#The tests to check if the forward and backward passes are working
+#The 3 tests are for each Nueron and each Layer and the whole MLP(Multilayered Perceptron)
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
